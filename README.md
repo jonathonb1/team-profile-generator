@@ -35,8 +35,9 @@ Command line application that takes in information about employees and generates
 #
 
 ## User-Instructions
+In terminal, ensure that you have installed node before attempting to run this app.  Once all files have been installed, run command "node app.js" in the command line and follow the prompts.
 
-
+Once all prompts have been filled out, the output folder will update the team.html file which can be opened in the browser of our choice, you will then see the list of employees whom you've added via the terminal.
 
 ---
 
