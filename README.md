@@ -30,6 +30,7 @@ Command line application that takes in information about employees and generates
 ---
 
 ## Screenshot:
+<img width="1482" alt="Screen Shot 2022-09-13 at 12 43 50 AM" src="https://user-images.githubusercontent.com/102259821/189841678-be162d6c-c56c-4b23-accf-f4590f9a7e32.png">
 
 
 #
